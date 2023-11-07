@@ -29,7 +29,7 @@ function App() {
   async function handleDownload() {
     const canvas = await html2canvas(document.getElementById("qouteCard"));
     const dataURL = canvas.toDataURL("image/png");
-    downloadjs(dataURL, "download.png", "image/png");
+    downloadjs(dataURL, "advice.png", "image/png");
   }
 
   useEffect(() => {
