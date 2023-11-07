@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/advice-machine/static/css/main.090df396.css",
+    "main.js": "/advice-machine/static/js/main.38a849f4.js",
+    "static/media/Loader.gif": "/advice-machine/static/media/Loader.d5311074be9ac571b7d7.gif",
+    "index.html": "/advice-machine/index.html",
+    "main.090df396.css.map": "/advice-machine/static/css/main.090df396.css.map",
+    "main.38a849f4.js.map": "/advice-machine/static/js/main.38a849f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.090df396.css",
+    "static/js/main.38a849f4.js"
+  ]
+}
